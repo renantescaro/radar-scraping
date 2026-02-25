@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  radar-scraper:
+    build: .
+    container_name: radar_scraper
+    volumes:
+      - .:/app
+    environment:
+      - DATABASE_URL=${DATABASE_URL}
+      - TZ=America/Sao_Paulo
+    restart: always
+    working_dir: /app

@@ -1,0 +1,647 @@
+[
+    {
+        "icao": "SBAF",
+        "city": "Rio de Janeiro, RJ",
+        "description": "Campo Délio Jardim de Mattos"
+    },
+    {
+        "icao": "SBAN",
+        "city": "Anápolis, GO",
+        "description": "Campo Marechal Márcio de Souza e Mello"
+    },
+    {
+        "icao": "SBAR",
+        "city": "Aracaju, SE"
+    },
+    {
+        "icao": "SBAU",
+        "city": "Araçatuba, SP"
+    },
+    {
+        "icao": "SBAX",
+        "city": "Araxá, MG"
+    },
+    {
+        "icao": "SBBE",
+        "city": "Belém, PA"
+    },
+    {
+        "icao": "SBBI",
+        "city": "Curitiba, PR (Bacacheri)",
+        "description": "Bacacheri"
+    },
+    {
+        "icao": "SBBQ",
+        "city": "Barbacena, MG"
+    },
+    {
+        "icao": "SBBR",
+        "city": "Brasília, DF (Lago Sul)",
+        "description": "Presidente Juscelino Kubitschek"
+    },
+    {
+        "icao": "SBBV",
+        "city": "Boa Vista, RR"
+    },
+    {
+        "icao": "SBBW",
+        "city": "Barra do Garças, MT"
+    },
+    {
+        "icao": "SBCA",
+        "city": "Cascavel, PR"
+    },
+    {
+        "icao": "SBCB",
+        "city": "Cabo Frio, RJ"
+    },
+    {
+        "icao": "SBCC",
+        "city": "Cachimbo, PA"
+    },
+    {
+        "icao": "SBCF",
+        "city": "Belo Horizonte/Confins, MG"
+    },
+    {
+        "icao": "SBCG",
+        "city": "Campo Grande, MS"
+    },
+    {
+        "icao": "SBCJ",
+        "city": "Carajás, PA"
+    },
+    {
+        "icao": "SBCO",
+        "city": "Canoas, RS"
+    },
+    {
+        "icao": "SBCP",
+        "city": "Campos dos Goytacazes, RJ"
+    },
+    {
+        "icao": "SBCR",
+        "city": "Corumbá, MS"
+    },
+    {
+        "icao": "SBCT",
+        "city": "Curitiba, PR (São José dos Pinhais)",
+        "description": "Afonso Pena"
+    },
+    {
+        "icao": "SBCY",
+        "city": "Cuiabá, MT (Várzea Grande)",
+        "description": "Marechal Rondon"
+    },
+    {
+        "icao": "SBCZ",
+        "city": "Cruzeiro do Sul, AC"
+    },
+    {
+        "icao": "SBDN",
+        "city": "Presidente Prudente, SP"
+    },
+    {
+        "icao": "SBEG",
+        "city": "Manaus, AM"
+    },
+    {
+        "icao": "SBES",
+        "city": "São Pedro da Aldeia, RJ"
+    },
+    {
+        "icao": "SBFI",
+        "city": "Foz do Iguaçu, PR"
+    },
+    {
+        "icao": "SBFL",
+        "city": "Florianópolis, SC"
+    },
+    {
+        "icao": "SBFS",
+        "city": "São José dos Campos, SP (Embraer/Faria Lima)",
+        "description": "Farol de São Tomé"
+    },
+    {
+        "icao": "SBFZ",
+        "city": "Fortaleza, CE"
+    },
+    {
+        "icao": "SBGL",
+        "city": "Rio de Janeiro, RJ (Galeão)",
+        "description": "Antônio Carlos Jobim"
+    },
+    {
+        "icao": "SBGM",
+        "city": "Guajará-Mirim, RO"
+    },
+    {
+        "icao": "SBGP",
+        "city": "Gavião Peixoto, SP"
+    },
+    {
+        "icao": "SBGV",
+        "city": "Governador Valadares, MG"
+    },
+    {
+        "icao": "SBGW",
+        "city": "Guaratinguetá, SP"
+    },
+    {
+        "icao": "SBHT",
+        "city": "Altamira, PA"
+    },
+    {
+        "icao": "SBIH",
+        "city": "Itaituba, PA"
+    },
+    {
+        "icao": "SBIL",
+        "city": "Ilhéus, BA"
+    },
+    {
+        "icao": "SBIT",
+        "city": "Itumbiara, GO"
+    },
+    {
+        "icao": "SBIZ",
+        "city": "Imperatriz, MA"
+    },
+    {
+        "icao": "SBJR",
+        "city": "Rio de Janeiro, RJ (Jacarepaguá)",
+        "description": "Roberto Marinho"
+    },
+    {
+        "icao": "SBJU",
+        "city": "Juazeiro do Norte, CE"
+    },
+    {
+        "icao": "SBJV",
+        "city": "Joinville, SC"
+    },
+    {
+        "icao": "SBKG",
+        "city": "Campina Grande, PB"
+    },
+    {
+        "icao": "SBKP",
+        "city": "Campinas, SP",
+        "description": "Viracopos"
+    },
+    {
+        "icao": "SBLO",
+        "city": "Londrina, PR"
+    },
+    {
+        "icao": "SBLS",
+        "city": "Lagoa Santa, MG"
+    },
+    {
+        "icao": "SBMA",
+        "city": "Marabá, PA"
+    },
+    {
+        "icao": "SBME",
+        "city": "Macaé, RJ"
+    },
+    {
+        "icao": "SBMG",
+        "city": "Maringá, PR"
+    },
+    {
+        "icao": "SBMK",
+        "city": "Montes Claros, MG"
+    },
+    {
+        "icao": "SBMN",
+        "city": "Manaus, AM (Base Aérea de Ponta Pelada)",
+        "description": "Campo Ponta Pelada"
+    },
+    {
+        "icao": "SBMO",
+        "city": "Maceió, AL (Rio Largo)",
+        "description": "Zumbi dos Palmares"
+    },
+    {
+        "icao": "SBMS",
+        "city": "Mossoró, RN"
+    },
+    {
+        "icao": "SBMT",
+        "city": "São Paulo, SP",
+        "description": "Campo de Marte"
+    },
+    {
+        "icao": "SBNM",
+        "city": "Santo Ângelo, RS"
+    },
+    {
+        "icao": "SBNT",
+        "city": "Natal, RN (Parnamirim)",
+        "description": "Campo Augusto Severo"
+    },
+    {
+        "icao": "SBOI",
+        "city": "Oiapoque, AP"
+    },
+    {
+        "icao": "SBPA",
+        "city": "Porto Alegre, RS"
+    },
+    {
+        "icao": "SBPF",
+        "city": "Passo Fundo, RS"
+    },
+    {
+        "icao": "SBPJ",
+        "city": "Palmas, TO"
+    },
+    {
+        "icao": "SBPL",
+        "city": "Petrolina, PE"
+    },
+    {
+        "icao": "SBPP",
+        "city": "Ponta Porã, MS"
+    },
+    {
+        "icao": "SBPS",
+        "city": "Porto Seguro, BA"
+    },
+    {
+        "icao": "SBPV",
+        "city": "Porto Velho, RO"
+    },
+    {
+        "icao": "SBRB",
+        "city": "Rio Branco, AC"
+    },
+    {
+        "icao": "SBRJ",
+        "city": "Rio de Janeiro, RJ",
+        "description": "Santos Dumont"
+    },
+    {
+        "icao": "SBSC",
+        "city": "Rio de Janeiro, RJ (Santa Cruz)",
+        "description": "Campo Nero Moura"
+    },
+    {
+        "icao": "SBSG",
+        "city": "Natal, RN (São Gonçalo do Amarante)",
+        "description": "Governador Aluizio Alves"
+    },
+    {
+        "icao": "SBSJ",
+        "city": "São José dos Campos, SP"
+    },
+    {
+        "icao": "SBSL",
+        "city": "São Luís, MA"
+    },
+    {
+        "icao": "SBSM",
+        "city": "Santa Maria, RS"
+    },
+    {
+        "icao": "SBSR",
+        "city": "São José do Rio Preto, SP"
+    },
+    {
+        "icao": "SBST",
+        "city": "Santos, SP (Base Aérea)"
+    },
+    {
+        "icao": "SBSV",
+        "city": "Salvador, BA"
+    },
+    {
+        "icao": "SBTA",
+        "city": "Taubaté, SP"
+    },
+    {
+        "icao": "SBTS",
+        "city": "Óbidos, PA",
+        "description": "Tirios"
+    },
+    {
+        "icao": "SBTT",
+        "city": "Tabatinga , AM"
+    },
+    {
+        "icao": "SBTF",
+        "city": "Tefé, AM",
+        "description": "Aeroporto Prefeito Orlando Marinho"
+    },
+    {
+        "icao": "SBUA",
+        "city": "São Gabriel da Cachoeira, AM"
+    },
+    {
+        "icao": "SBUG",
+        "city": "Uruguaiana, RS"
+    },
+    {
+        "icao": "SBUY",
+        "city": "Uaupés/São Gabriel da Cachoeira, AM",
+        "description": "Urucu"
+    },
+    {
+        "icao": "SBVH",
+        "city": "Vilhena, RO"
+    },
+    {
+        "icao": "SBVT",
+        "city": "Vitória, ES"
+    },
+    {
+        "icao": "SBYS",
+        "city": "Pirassununga, SP (Academia da Força Aérea)",
+        "description": "Campo Fontenelle"
+    },
+    {
+        "icao": "SBAQ",
+        "city": "Araraquara, SP"
+    },
+    {
+        "icao": "SBBU",
+        "city": "Bauru, SP",
+        "description": "Aeroporto Estadual de Bauru"
+    },
+    {
+        "icao": "SBCN",
+        "city": "Caldas Novas, GO"
+    },
+    {
+        "icao": "SBCX",
+        "city": "Caxias do Sul, RS"
+    },
+    {
+        "icao": "SBGR",
+        "city": "Guarulhos, SP (Aeroporto Internacional de São Paulo)",
+        "description": "Governador André Franco Montoro"
+    },
+    {
+        "icao": "SBJP",
+        "city": "João Pessoa, PB (Bayeux)",
+        "description": "Presidente Castro Pinto"
+    },
+    {
+        "icao": "SBMQ",
+        "city": "Macapá, AP"
+    },
+    {
+        "icao": "SBNF",
+        "city": "Navegantes, SC"
+    },
+    {
+        "icao": "SBUR",
+        "city": "Uberaba, MG"
+    },
+    {
+        "icao": "SBAT",
+        "city": "Alta Floresta, MT"
+    },
+    {
+        "icao": "SBBH",
+        "city": "Belo Horizonte, MG (Pampulha)",
+        "description": "Carlos Drummond de Andrade"
+    },
+    {
+        "icao": "SBCH",
+        "city": "Chapecó, SC"
+    },
+    {
+        "icao": "SBFN",
+        "city": "Fernando de Noronha, PE"
+    },
+    {
+        "icao": "SBGO",
+        "city": "Goiânia, GO"
+    },
+    {
+        "icao": "SBLB",
+        "city": "Lábrea, AM"
+    },
+    {
+        "icao": "SBMM",
+        "city": "Maricá, RJ"
+    },
+    {
+        "icao": "SBPB",
+        "city": "Parnaíba, PI"
+    },
+    {
+        "icao": "SBRF",
+        "city": "Recife, PE"
+    },
+    {
+        "icao": "SBRP",
+        "city": "Ribeirão Preto, SP"
+    },
+    {
+        "icao": "SBSN",
+        "city": "Santarém, PA"
+    },
+    {
+        "icao": "SBSP",
+        "city": "São Paulo, SP (Congonhas)",
+        "description": "Deputado Freitas Nobre"
+    },
+    {
+        "icao": "SBTD",
+        "city": "Toledo, PR"
+    },
+    {
+        "icao": "SBTE",
+        "city": "Teresina, PI"
+    },
+    {
+        "icao": "SBUL",
+        "city": "Uberlândia, MG"
+    },
+    {
+        "icao": "SBPK",
+        "city": "Pelotas, RS"
+    },
+    {
+        "icao": "SBUF",
+        "city": "Paulo Afonso, BA"
+    },
+    {
+        "icao": "SBVG",
+        "city": "Varginha, MG"
+    },
+    {
+        "icao": "SBML",
+        "city": "Marília, SP"
+    },
+    {
+        "icao": "SBBG",
+        "city": "Bagé, RS",
+        "description": "Comandante Gustavo Kraemer"
+    },
+    {
+        "icao": "SBPW",
+        "city": "Paranatinga, MT"
+    },
+    {
+        "icao": "SBAM",
+        "city": "Amapá, AP"
+    },
+    {
+        "icao": "SBCD",
+        "city": "Caçador, SC"
+    },
+    {
+        "icao": "SBAA",
+        "city": "Conceição do Araguaia, PA"
+    },
+    {
+        "icao": "SBZM",
+        "city": "Goianá, MG"
+    },
+    {
+        "icao": "SBJE",
+        "city": "Cruz, CE"
+    },
+    {
+        "icao": "SBJF",
+        "city": "Juiz de Fora, MG"
+    },
+    {
+        "icao": "SBJD",
+        "city": "Jundiaí, SP"
+    },
+    {
+        "icao": "SBRD",
+        "city": "Rondonópolis, MT"
+    },
+    {
+        "icao": "SBTK",
+        "city": "Tarauacá, AC"
+    },
+    {
+        "icao": "SSCR",
+        "city": "Marechal Cândido Rondon, PR",
+        "description": "Balduino Helmuth Jope"
+    },
+    {
+        "icao": "SSZW",
+        "city": "Ponta Grossa, PR"
+    },
+    {
+        "icao": "SILQ",
+        "city": "Cascavel, PR",
+        "description": "Aeroleve Aeródromo Privado"
+    },
+    {
+        "icao": "SDAM",
+        "city": "Campinas, SP",
+        "description": "Campos dos Amarais - Prefeito Francisco Amaral"
+    },
+    {
+        "icao": "SDOE",
+        "city": "Santa Rosa do Purus, AC"
+    },
+    {
+        "icao": "SDSC",
+        "city": "São Carlos, SP"
+    },
+    {
+        "icao": "SDCO",
+        "city": "Sorocaba, SP"
+    },
+    {
+        "icao": "SNAL",
+        "city": "Arapiraca, AL"
+    },
+    {
+        "icao": "SNCC",
+        "city": "Calçoene, AP"
+    },
+    {
+        "icao": "SNML",
+        "city": "Rio Largo, AL",
+        "description": "Manduca Leão"
+    },
+    {
+        "icao": "SNOZ",
+        "city": "Paço do Lumiar, MA"
+    },
+    {
+        "icao": "SNPE",
+        "city": "Penedo, AL"
+    },
+    {
+        "icao": "SNPG",
+        "city": "Porto Grande, AP"
+    },
+    {
+        "icao": "SNRU",
+        "city": "Caruaru, PE"
+    },
+    {
+        "icao": "SNUN",
+        "city": "Unaí, MG"
+    },
+    {
+        "icao": "SWBC",
+        "city": "Barcelos, AM"
+    },
+    {
+        "icao": "SWBI",
+        "city": "Barreirinha, AM"
+    },
+    {
+        "icao": "SWBR",
+        "city": "Borba, AM"
+    },
+    {
+        "icao": "SWBS",
+        "city": "Brasileia, AC"
+    },
+    {
+        "icao": "SWCA",
+        "city": "Caraurari, AM"
+    },
+    {
+        "icao": "SWFJ",
+        "city": "Feijó, AC"
+    },
+    {
+        "icao": "SWFN",
+        "city": "Manaus, AM"
+    },
+    {
+        "icao": "SWJV",
+        "city": "Atalaia do Norte/AM",
+        "description": "Palmeiras do Javari"
+    },
+    {
+        "icao": "SWMU",
+        "city": "Pacaraima, RR"
+    },
+    {
+        "icao": "SWKO",
+        "city": "Coari, AM"
+    },
+    {
+        "icao": "SWSN",
+        "city": "Sena Madureira, AC"
+    },
+    {
+        "icao": "SWNK",
+        "city": "Boca do Acre, AM",
+        "description": "Novo Campo"
+    },
+    {
+        "icao": "SWXU",
+        "city": "Xapuri, AC"
+    },
+    {
+        "icao": "SWYN",
+        "city": "Apuí, AM"
+    }
+]
