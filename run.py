@@ -12,5 +12,4 @@ SaveData().execute(data)
 
 for city in data:
     if city.properties.city_name == "":
-        print("-------------------------------", city.properties)
-        print("\n")
+        print("-------", city.properties)

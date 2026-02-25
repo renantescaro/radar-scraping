@@ -251,7 +251,8 @@
     },
     {
         "icao": "SBPF",
-        "city": "Passo Fundo, RS"
+        "city": "Passo Fundo, RS",
+        "description": "Lauro Kurtz"
     },
     {
         "icao": "SBPJ",
@@ -523,6 +524,11 @@
         "city": "Tarauacá, AC"
     },
     {
+        "icao": "SBTB",
+        "city": "Oriximiná, PA",
+        "description": "Trombetas"
+    },
+    {
         "icao": "SSCR",
         "city": "Marechal Cândido Rondon, PR",
         "description": "Balduino Helmuth Jope"
@@ -530,6 +536,11 @@
     {
         "icao": "SSZW",
         "city": "Ponta Grossa, PR"
+    },
+    {
+        "icao": "SSGG",
+        "city": "Guarapuava, PR",
+        "description": "Aeroporto Regional de Guarapuava - Tancredo Thomás de Faria"
     },
     {
         "icao": "SILQ",
@@ -552,6 +563,24 @@
     {
         "icao": "SDCO",
         "city": "Sorocaba, SP"
+    },
+    {
+        "icao": "SDPO",
+        "city": "São Paulo, SP",
+        "description": "Plaza Centenário"
+    },
+    {
+        "icao": "SDNB",
+        "city": "Brasnorte, MT"
+    },
+    {
+        "icao": "SDPN",
+        "city": "Penápolis, SP"
+    },
+    {
+        "icao": "SNT8",
+        "city": "Luís Eduardo Magalhães, BA",
+        "description": "Fazenda São João"
     },
     {
         "icao": "SNAL",
@@ -585,6 +614,20 @@
     {
         "icao": "SNUN",
         "city": "Unaí, MG"
+    },
+    {
+        "icao": "SNCS",
+        "city": "Campos Sales, CE"
+    },
+    {
+        "icao": "SJOZ",
+        "city": "São Paulo, SP",
+        "description": "Faria Lima Square"
+    },
+    {
+        "icao": "SJWQ",
+        "city": "Birigui, SP",
+        "description": "CMTE Munir Djabak"
     },
     {
         "icao": "SWBC",
@@ -643,5 +686,1880 @@
     {
         "icao": "SWYN",
         "city": "Apuí, AM"
+    },
+    {
+        "icao": "SWAQ",
+        "city": "Amajari, RR",
+        "description": "Érico"
+    },
+    {
+        "icao": "SWAE",
+        "city": "Alto Alegre, RR",
+        "description": "Uaicas"
+    },
+    {
+        "icao": "SWXQ",
+        "city": "Lins/SP"
+    },
+    {
+        "icao": "SDZG",
+        "city": "Tauá, CE",
+        "description": "Pedro Teixeira Castelo Regional Tauá"
+    },
+    {
+        "icao": "SDIG",
+        "city": "Ibitinga, SP",
+        "description": "Ibitinga"
+    },
+    {
+        "icao": "SNJK",
+        "city": "Jequié, BA",
+        "description": "Jequié"
+    },
+    {
+        "icao": "SSKU",
+        "city": "Curitibanos, SC",
+        "description": "Lauro Antônio da Costa"
+    },
+    {
+        "icao": "SSEP",
+        "city": "São Sepé, RS",
+        "description": "São Sepé"
+    },
+    {
+        "icao": "SJRG",
+        "city": "Rio Grande, RS",
+        "description": "Regional de Rio Grande"
+    },
+    {
+        "icao": "SSXX",
+        "city": "Xanxerê, SC",
+        "description": "Municipal João Winckler"
+    },
+    {
+        "icao": "SBDO",
+        "city": "Dourados, MS",
+        "description": "Dourados"
+    },
+    {
+        "icao": "SNGD",
+        "city": "Guadalupe, PI",
+        "description": "Guadalupe"
+    },
+    {
+        "icao": "SSVI",
+        "city": "Videira, SC",
+        "description": "Ângelo Ponzoni"
+    },
+    {
+        "icao": "SWDM",
+        "city": "Diamantino, MT",
+        "description": "Diamantino"
+    },
+    {
+        "icao": "SDTF",
+        "city": "Tatuí, SP",
+        "description": "Tatuí"
+    },
+    {
+        "icao": "SSIJ",
+        "city": "Ijuí, RS",
+        "description": "Ijuí"
+    },
+    {
+        "icao": "SDIY",
+        "city": "Feira De Santana, BA",
+        "description": "João Durval Carneiro"
+    },
+    {
+        "icao": "SNTQ",
+        "city": "Buritirama, BA",
+        "description": "Buritirama"
+    },
+    {
+        "icao": "SNCT",
+        "city": "Ubaporanga, MG",
+        "description": "Caratinga"
+    },
+    {
+        "icao": "SDPE",
+        "city": "Porto Nacional, TO",
+        "description": "Porto Nacional"
+    },
+    {
+        "icao": "SWKC",
+        "city": "Cáceres, MT",
+        "description": "Cáceres"
+    },
+    {
+        "icao": "SSGA",
+        "city": "Garibaldi, RS",
+        "description": "Garibaldi"
+    },
+    {
+        "icao": "SWBG",
+        "city": "Pontes E Lacerda, MT",
+        "description": "André Antônio Maggi"
+    },
+    {
+        "icao": "SBMI",
+        "city": "Maricá, RJ",
+        "description": "Maricá"
+    },
+    {
+        "icao": "SNPU",
+        "city": "Paraguaçu, MG",
+        "description": "COMANDANTE VIRGILIO BORIM"
+    },
+    {
+        "icao": "SDFX",
+        "city": "Casa Nova, BA",
+        "description": "Casa Nova"
+    },
+    {
+        "icao": "SNHS",
+        "city": "Serra Talhada, PE",
+        "description": "Santa Magalhães"
+    },
+    {
+        "icao": "SSAE",
+        "city": "Arroio Grande, RS",
+        "description": "Arroio Grande"
+    },
+    {
+        "icao": "SSKG",
+        "city": "Campo Grande, MS",
+        "description": "Estância Santa Maria"
+    },
+    {
+        "icao": "SSCP",
+        "city": "Cornélio Procópio, PR",
+        "description": "Francisco Lacerda Júnior"
+    },
+    {
+        "icao": "SJO9",
+        "city": "Senhor Do Bonfim, BA",
+        "description": "Senhor do Bonfim"
+    },
+    {
+        "icao": "SWXM",
+        "city": "Matupá, MT",
+        "description": "Regional Orlando Villas Boas"
+    },
+    {
+        "icao": "SSRU",
+        "city": "São Lourenço Do Sul, RS",
+        "description": "São Lourenço do Sul"
+    },
+    {
+        "icao": "SSMJ",
+        "city": "Maracaju, MS",
+        "description": "Maracaju"
+    },
+    {
+        "icao": "SNIT",
+        "city": "Ibotirama, BA",
+        "description": "Ibotirama"
+    },
+    {
+        "icao": "SWJW",
+        "city": "Jataí, GO",
+        "description": "Jataí"
+    },
+    {
+        "icao": "SJ4Y",
+        "city": "Morrinhos, GO",
+        "description": "Morrinhos"
+    },
+    {
+        "icao": "SNAG",
+        "city": "Araguari, MG",
+        "description": "Araguari"
+    },
+    {
+        "icao": "SSOG",
+        "city": "Arapongas, PR",
+        "description": "Arapongas"
+    },
+    {
+        "icao": "SNLO",
+        "city": "São Lourenço, MG",
+        "description": "São Lourenço"
+    },
+    {
+        "icao": "SNYE",
+        "city": "Pinheiro, MA",
+        "description": "Pinheiro"
+    },
+    {
+        "icao": "SIBU",
+        "city": "Catolé Do Rocha, PB",
+        "description": "JERÔNIMO SÉRGIO ROSADO MAIA"
+    },
+    {
+        "icao": "SNNU",
+        "city": "Nanuque, MG",
+        "description": "Nanuque"
+    },
+    {
+        "icao": "SJOG",
+        "city": "Ariquemes, RO",
+        "description": "Ariquemes"
+    },
+    {
+        "icao": "SSSB",
+        "city": "São Borja, RS",
+        "description": "São Borja"
+    },
+    {
+        "icao": "SNIB",
+        "city": "Itaberaba, BA",
+        "description": "Itaberaba"
+    },
+    {
+        "icao": "SJO7",
+        "city": "Ipanema, MG",
+        "description": "Municipal Elber Pereira"
+    },
+    {
+        "icao": "SSIQ",
+        "city": "Itaqui, RS",
+        "description": "Itaqui"
+    },
+    {
+        "icao": "SNNE",
+        "city": "São João Nepomuceno, MG",
+        "description": "Sebastião Carlos Leite"
+    },
+    {
+        "icao": "SSCI",
+        "city": "Coxim, MS",
+        "description": "Coxim"
+    },
+    {
+        "icao": "SNMK",
+        "city": "Jaíba, MG",
+        "description": "Mocambinho"
+    },
+    {
+        "icao": "SSSC",
+        "city": "Santa Cruz Do Sul, RS",
+        "description": "Santa Cruz do Sul"
+    },
+    {
+        "icao": "SSLO",
+        "city": "Loanda, PR",
+        "description": "Attillio Accorsi"
+    },
+    {
+        "icao": "SDJO",
+        "city": "São Joaquim Da Barra, SP",
+        "description": "São Joaquim da Barra"
+    },
+    {
+        "icao": "SDPV",
+        "city": "Presidente Venceslau, SP",
+        "description": "Presidente Venceslau"
+    },
+    {
+        "icao": "SDTK",
+        "city": "Paraty, RJ",
+        "description": "Paraty"
+    },
+    {
+        "icao": "SDMH",
+        "city": "Mirassol, SP",
+        "description": "Mirassol"
+    },
+    {
+        "icao": "SSPM",
+        "city": "Porto Murtinho, MS",
+        "description": "Porto Murtinho"
+    },
+    {
+        "icao": "SWFR",
+        "city": "Formosa, GO",
+        "description": "Formosa"
+    },
+    {
+        "icao": "SBIC",
+        "city": "Itacoatiara, AM",
+        "description": "Itacoatiara"
+    },
+    {
+        "icao": "SNWS",
+        "city": "Crateús, CE",
+        "description": "Crateús"
+    },
+    {
+        "icao": "SBVC",
+        "city": "Vitória Da Conquista, BA",
+        "description": "Glauber de Andrade Rocha"
+    },
+    {
+        "icao": "SDLP",
+        "city": "Lençóis Paulista, SP",
+        "description": "Municipal José Boso"
+    },
+    {
+        "icao": "SNSG",
+        "city": "Salgueiro, PE",
+        "description": "Salgueiro"
+    },
+    {
+        "icao": "SNAE",
+        "city": "Arcoverde, PE",
+        "description": "Arcoverde"
+    },
+    {
+        "icao": "SSRF",
+        "city": "Castro Alves, BA",
+        "description": "Castro Alves"
+    },
+    {
+        "icao": "SWLC",
+        "city": "Rio Verde, GO",
+        "description": "General Leite de Castro"
+    },
+    {
+        "icao": "SNMJ",
+        "city": "Maracás, BA",
+        "description": "Maracás"
+    },
+    {
+        "icao": "SNGA",
+        "city": "Guarapari, ES",
+        "description": "Guarapari"
+    },
+    {
+        "icao": "SNOX",
+        "city": "Oriximiná, PA",
+        "description": "Oriximiná"
+    },
+    {
+        "icao": "SDRS",
+        "city": ", ",
+        "description": "Resende"
+    },
+    {
+        "icao": "SJBY",
+        "city": "Santa Inês, MA",
+        "description": "João Silva"
+    },
+    {
+        "icao": "SNBI",
+        "city": "Bacabal, MA",
+        "description": "Bacabal"
+    },
+    {
+        "icao": "SSTB",
+        "city": "Três Barras, SC",
+        "description": "Três Barras"
+    },
+    {
+        "icao": "SWRO",
+        "city": "Porto Velho, RO",
+        "description": "Aeroclube de Rondônia"
+    },
+    {
+        "icao": "SBIP",
+        "city": "Santana Do Paraíso, MG",
+        "description": "Usiminas"
+    },
+    {
+        "icao": "SSLN",
+        "city": "Lontras, SC",
+        "description": "Helmuth Baungartem"
+    },
+    {
+        "icao": "SNVS",
+        "city": "Breves, PA",
+        "description": "Breves"
+    },
+    {
+        "icao": "SBSO",
+        "city": "Sorriso, MT",
+        "description": "Regional de Sorriso Adolino Bedin"
+    },
+    {
+        "icao": "SNDV",
+        "city": "Divinópolis, MG",
+        "description": "Brigadeiro Antônio Cabral"
+    },
+    {
+        "icao": "SDCA",
+        "city": "Capão Bonito, SP",
+        "description": "Capão Bonito"
+    },
+    {
+        "icao": "SNSE",
+        "city": "Sento Sé, BA",
+        "description": "Sento Sé"
+    },
+    {
+        "icao": "SSSD",
+        "city": "Soledade, RS",
+        "description": "Soledade"
+    },
+    {
+        "icao": "SNRX",
+        "city": "Riachão, MA",
+        "description": "Riachão"
+    },
+    {
+        "icao": "SSNH",
+        "city": "Novo Hamburgo, RS",
+        "description": "Novo Hamburgo"
+    },
+    {
+        "icao": "SWTS",
+        "city": "Tangará Da Serra, MT",
+        "description": "Tangará da Serra"
+    },
+    {
+        "icao": "SSGY",
+        "city": "Guaíra, PR",
+        "description": "Guaíra"
+    },
+    {
+        "icao": "SSPI",
+        "city": "Paranavaí, PR",
+        "description": "Edu Chaves"
+    },
+    {
+        "icao": "SNAX",
+        "city": "Assis, SP",
+        "description": "Marcelo Pires Halzhausen"
+    },
+    {
+        "icao": "SDNO",
+        "city": "São Manuel, SP",
+        "description": "Nelson Garófalo"
+    },
+    {
+        "icao": "SNJR",
+        "city": "São João Del Rei, MG",
+        "description": "Prefeito Octávio de Almeida Neves"
+    },
+    {
+        "icao": "SNPJ",
+        "city": "Patrocínio, MG",
+        "description": "Patrocínio"
+    },
+    {
+        "icao": "SNPC",
+        "city": "Picos, PI",
+        "description": "Picos"
+    },
+    {
+        "icao": "SDNH",
+        "city": "Novo Horizonte, SP",
+        "description": "Novo Horizonte"
+    },
+    {
+        "icao": "SNYU",
+        "city": "Iturama, MG",
+        "description": "ITURAMA"
+    },
+    {
+        "icao": "SSKM",
+        "city": "Campo Mourão, PR",
+        "description": "Campo Mourão"
+    },
+    {
+        "icao": "SBAE",
+        "city": "Bauru, SP",
+        "description": "Bauru/Arealva"
+    },
+    {
+        "icao": "SNQV",
+        "city": "Curvelo, MG",
+        "description": "Curvelo"
+    },
+    {
+        "icao": "SWEI",
+        "city": "Eirunepé, AM",
+        "description": "Eirunepé"
+    },
+    {
+        "icao": "SBSI",
+        "city": "Sinop, MT",
+        "description": "Presidente João Batista Figueiredo"
+    },
+    {
+        "icao": "SDUN",
+        "city": "Itaperuna, RJ",
+        "description": "Itaperuna"
+    },
+    {
+        "icao": "SDRK",
+        "city": "Rio Claro, SP",
+        "description": "Rio Claro"
+    },
+    {
+        "icao": "SNOE",
+        "city": "Oeiras, PI",
+        "description": "Oeiras"
+    },
+    {
+        "icao": "SNGN",
+        "city": "Garanhuns, PE",
+        "description": "Garanhuns"
+    },
+    {
+        "icao": "SWPR",
+        "city": "Pires Do Rio, GO",
+        "description": "Pires do Rio"
+    },
+    {
+        "icao": "SNSS",
+        "city": "Salinas, MG",
+        "description": "Salinas"
+    },
+    {
+        "icao": "SJVO",
+        "city": "Aragarças, GO",
+        "description": "Aragarças"
+    },
+    {
+        "icao": "SJXI",
+        "city": "Santa Rita Do Sapucaí, MG",
+        "description": "Santa Rita do Sapucaí"
+    },
+    {
+        "icao": "SNTO",
+        "city": "Teófilo Otoni, MG",
+        "description": "Juscelino Kubitscheck"
+    },
+    {
+        "icao": "SDVE",
+        "city": "Vera Cruz, SP",
+        "description": "Vera Cruz"
+    },
+    {
+        "icao": "SSOL",
+        "city": "Lavras, MG",
+        "description": "Padre Israel (Israel Batista de Carvalho)"
+    },
+    {
+        "icao": "SSLG",
+        "city": "São Luiz Gonzaga, RS",
+        "description": "São Luiz Gonzaga"
+    },
+    {
+        "icao": "SNPY",
+        "city": "São Sebastião Do Paraíso, MG",
+        "description": "São Sebastião do Paraíso"
+    },
+    {
+        "icao": "SNKD",
+        "city": "Conceição Do Mato Dentro, MG",
+        "description": "Conceição do Mato Dentro"
+    },
+    {
+        "icao": "SDNM",
+        "city": "Nova Mutum, MT",
+        "description": "Brigadeiro Eduardo Gomes"
+    },
+    {
+        "icao": "SDVG",
+        "city": "Votuporanga, SP",
+        "description": "Domingos Pignatari"
+    },
+    {
+        "icao": "SSOI",
+        "city": "Pederneiras, SP",
+        "description": "Pederneiras"
+    },
+    {
+        "icao": "SNRZ",
+        "city": "Oliveira, MG",
+        "description": "Oliveira"
+    },
+    {
+        "icao": "SNBC",
+        "city": "Barra Do Corda, MA",
+        "description": "Barra do Corda"
+    },
+    {
+        "icao": "SNUB",
+        "city": "Ubá, MG",
+        "description": "Ubá"
+    },
+    {
+        "icao": "SDFD",
+        "city": "Fernandópolis, SP",
+        "description": "Coronel Aviador Carlos Orleans Guimarães"
+    },
+    {
+        "icao": "SNFE",
+        "city": "Alfenas, MG",
+        "description": "Comandante Paschoal Patrocínio Filho"
+    },
+    {
+        "icao": "SNJB",
+        "city": "Jacobina, BA",
+        "description": "Jacobina"
+    },
+    {
+        "icao": "SNJP",
+        "city": "João Pinheiro, MG",
+        "description": "João Pinheiro"
+    },
+    {
+        "icao": "SBTU",
+        "city": "Tucuruí, PA",
+        "description": "Tucuruí"
+    },
+    {
+        "icao": "SWGI",
+        "city": "Gurupi, TO",
+        "description": "Gurupi"
+    },
+    {
+        "icao": "SDBK",
+        "city": "Botucatu, SP",
+        "description": "Tancredo de Almeida Neves"
+    },
+    {
+        "icao": "SIZX",
+        "city": "Juara, MT",
+        "description": "Juara Sul"
+    },
+    {
+        "icao": "SBPG",
+        "city": "Ponta Grossa, PR",
+        "description": "Comandante Antônio Amilton Beraldo"
+    },
+    {
+        "icao": "SSMT",
+        "city": "Mostardas, RS",
+        "description": "Mostardas"
+    },
+    {
+        "icao": "SBBP",
+        "city": "Bragança Paulista, SP",
+        "description": "Estadual Arthur Siqueira"
+    },
+    {
+        "icao": "SSKW",
+        "city": "Cacoal, RO",
+        "description": "Cacoal"
+    },
+    {
+        "icao": "SN3Y",
+        "city": "Bom Jesus Da Lapa, BA",
+        "description": "Novo Aeroporto de Bom Jesus da Lapa"
+    },
+    {
+        "icao": "SWMW",
+        "city": "Maués, AM",
+        "description": "Maués"
+    },
+    {
+        "icao": "SDDR",
+        "city": "Dracena, SP",
+        "description": "Dracena"
+    },
+    {
+        "icao": "SIMK",
+        "city": "Franca, SP",
+        "description": "Tenente Lund Pressoto"
+    },
+    {
+        "icao": "SSKZ",
+        "city": "Carazinho, RS",
+        "description": "Carazinho"
+    },
+    {
+        "icao": "SNMH",
+        "city": "Pirenópolis, GO",
+        "description": "Pirenópolis"
+    },
+    {
+        "icao": "SNQU",
+        "city": "Mucugê, BA",
+        "description": "Mucugê"
+    },
+    {
+        "icao": "SNYB",
+        "city": "Ituiutaba, MG",
+        "description": "Tito Teixeira"
+    },
+    {
+        "icao": "SSQP",
+        "city": "Monte Santo, BA",
+        "description": "Monte Santo"
+    },
+    {
+        "icao": "SSCL",
+        "city": "Cassilândia, MS",
+        "description": "Cassilândia"
+    },
+    {
+        "icao": "SWHP",
+        "city": "Água Boa, MT",
+        "description": "Frederico Carlos Müller"
+    },
+    {
+        "icao": "SSPS",
+        "city": "Palmas, PR",
+        "description": "Dimorvan Carraro"
+    },
+    {
+        "icao": "SWVC",
+        "city": "Vila Rica, MT",
+        "description": "Vila Rica"
+    },
+    {
+        "icao": "SSFL",
+        "city": "Fronteiras, PI",
+        "description": "João Pereira dos Santos Filho"
+    },
+    {
+        "icao": "SWDN",
+        "city": "Dianópolis, TO",
+        "description": "Dianópolis"
+    },
+    {
+        "icao": "SDJC",
+        "city": "Jaboticabal, SP",
+        "description": "Jaboticabal"
+    },
+    {
+        "icao": "SDPY",
+        "city": "Pirassununga, SP",
+        "description": "Pirassununga"
+    },
+    {
+        "icao": "SDTI",
+        "city": "Tupi Paulista, SP",
+        "description": "Tupi Paulista"
+    },
+    {
+        "icao": "SDKJ",
+        "city": "Formosa Do Rio Preto, BA",
+        "description": "Formosa do Rio Preto"
+    },
+    {
+        "icao": "SSAB",
+        "city": "Ibaiti, PR",
+        "description": "Moisés Lupion"
+    },
+    {
+        "icao": "SDBY",
+        "city": "Bariri, SP",
+        "description": "Bariri"
+    },
+    {
+        "icao": "SNCA",
+        "city": "Campo Belo, MG",
+        "description": "Campo Belo"
+    },
+    {
+        "icao": "SDGC",
+        "city": "Garça, SP",
+        "description": "Garça"
+    },
+    {
+        "icao": "SNCX",
+        "city": "Colatina, ES",
+        "description": "Colatina"
+    },
+    {
+        "icao": "SSGB",
+        "city": "Guaratuba, PR",
+        "description": "Municipal de Guaratuba"
+    },
+    {
+        "icao": "SDRR",
+        "city": "Avaré, SP",
+        "description": "Avaré-Arandu"
+    },
+    {
+        "icao": "SSMR",
+        "city": "Manoel Ribas, PR",
+        "description": "Manoel Ribas"
+    },
+    {
+        "icao": "SWTP",
+        "city": "Santa Isabel Do Rio Negro, AM",
+        "description": "SANTA ISABEL DO RIO NEGRO"
+    },
+    {
+        "icao": "SNLN",
+        "city": "Linhares, ES",
+        "description": "Municipal de Linhares"
+    },
+    {
+        "icao": "SSNQ",
+        "city": "Nioaque, MS",
+        "description": "Nioaque"
+    },
+    {
+        "icao": "SSFB",
+        "city": "Francisco Beltrão, PR",
+        "description": "Paulo Abdala"
+    },
+    {
+        "icao": "SNBR",
+        "city": "Barreiras, BA",
+        "description": "Dom Ricardo Weberberger"
+    },
+    {
+        "icao": "SSPG",
+        "city": "Paranaguá, PR",
+        "description": "Santos Dumont"
+    },
+    {
+        "icao": "SSUV",
+        "city": "União Da Vitória, PR",
+        "description": "José Cleto"
+    },
+    {
+        "icao": "SNUH",
+        "city": "Piumhi, MG",
+        "description": "Piumhi"
+    },
+    {
+        "icao": "SNCZ",
+        "city": "Ponte Nova, MG",
+        "description": "Ponte Nova"
+    },
+    {
+        "icao": "SNBS",
+        "city": "Balsas, MA",
+        "description": "Balsas"
+    },
+    {
+        "icao": "SNKI",
+        "city": "Cachoeiro De Itapemirim, ES",
+        "description": "AERÓDROMO DE CACHOEIRO DE ITAPEMIRIM"
+    },
+    {
+        "icao": "SNEB",
+        "city": "Paragominas, PA",
+        "description": "Nagib Demachki"
+    },
+    {
+        "icao": "SSTE",
+        "city": "Torres, RS",
+        "description": "Torres"
+    },
+    {
+        "icao": "SDAD",
+        "city": "Adamantina, SP",
+        "description": "Everaldo Moraes Barreto"
+    },
+    {
+        "icao": "SSKK",
+        "city": "Capão Da Canoa, RS",
+        "description": "Capão da Canoa"
+    },
+    {
+        "icao": "SBJI",
+        "city": "Ji-Paraná, RO",
+        "description": "Ji-Paraná"
+    },
+    {
+        "icao": "SSCN",
+        "city": "Canela, RS",
+        "description": "Canela"
+    },
+    {
+        "icao": "SNQD",
+        "city": "Sousa, PB",
+        "description": "Sousa"
+    },
+    {
+        "icao": "SWBE",
+        "city": "São Benedito, CE",
+        "description": "Walfrido Salmito de Almeida"
+    },
+    {
+        "icao": "SNVI",
+        "city": "Três Corações, MG",
+        "description": "Mello Viana"
+    },
+    {
+        "icao": "SSUM",
+        "city": "Umuarama, PR",
+        "description": "Orlando de Carvalho"
+    },
+    {
+        "icao": "SWII",
+        "city": "Santo Antônio Do Içá, AM",
+        "description": "Ipiranga"
+    },
+    {
+        "icao": "SSBL",
+        "city": "Blumenau, SC",
+        "description": "Blumenau"
+    },
+    {
+        "icao": "SWXV",
+        "city": "Nova Xavantina, MT",
+        "description": "Nova Xavantina"
+    },
+    {
+        "icao": "SNBX",
+        "city": "Barra, BA",
+        "description": "Barra"
+    },
+    {
+        "icao": "SWCZ",
+        "city": "Ceres, GO",
+        "description": "Ceres"
+    },
+    {
+        "icao": "SSQC",
+        "city": "Siqueira Campos, PR",
+        "description": "Siqueira Campos"
+    },
+    {
+        "icao": "SBAC",
+        "city": "Aracati, CE",
+        "description": "Aeroporto Regional de Canoa Quebrada Dragão do Mar"
+    },
+    {
+        "icao": "SDAA",
+        "city": "Araras, SP",
+        "description": "Araras"
+    },
+    {
+        "icao": "SDUQ",
+        "city": "Paraguaçu Paulista, SP",
+        "description": "Paraguaçu Paulista"
+    },
+    {
+        "icao": "SDKK",
+        "city": "Mococa, SP",
+        "description": "Mococa"
+    },
+    {
+        "icao": "SWFX",
+        "city": "São Félix Do Araguaia, MT",
+        "description": "São Félix do Araguaia"
+    },
+    {
+        "icao": "SNIE",
+        "city": "Caetité, BA",
+        "description": "Caetité"
+    },
+    {
+        "icao": "SNBG",
+        "city": "Baixo Guandu, ES",
+        "description": "Baixo Guandu - Aimorés"
+    },
+    {
+        "icao": "SNBA",
+        "city": "Barretos, SP",
+        "description": "Chafei Amsei"
+    },
+    {
+        "icao": "SNQX",
+        "city": "Quixadá, CE",
+        "description": "Quixadá"
+    },
+    {
+        "icao": "SDJV",
+        "city": "São João Da Boa Vista, SP",
+        "description": "São João da Boa Vista"
+    },
+    {
+        "icao": "SNTS",
+        "city": "Patos, PB",
+        "description": "BRIGADEIRO FIRMINO AYRES"
+    },
+    {
+        "icao": "SSAN",
+        "city": "Andirá, PR",
+        "description": "João Galdino"
+    },
+    {
+        "icao": "SSAP",
+        "city": "Apucarana, PR",
+        "description": "Capitão João Busse"
+    },
+    {
+        "icao": "SDAI",
+        "city": "Americana, SP",
+        "description": "Americana"
+    },
+    {
+        "icao": "SBJH",
+        "city": "São Roque, SP",
+        "description": "São Paulo Catarina Aeroporto Executivo"
+    },
+    {
+        "icao": "SWHT",
+        "city": "Humaitá, AM",
+        "description": "Humaitá"
+    },
+    {
+        "icao": "SSSZ",
+        "city": "Sertanópolis, PR",
+        "description": "Sertanópolis"
+    },
+    {
+        "icao": "SNAS",
+        "city": "Três Marias, MG",
+        "description": "Três Marias"
+    },
+    {
+        "icao": "SSRG",
+        "city": "Registro, SP",
+        "description": "Aeroporto Estadual de Registro"
+    },
+    {
+        "icao": "SWUA",
+        "city": "São Miguel Do Araguaia, GO",
+        "description": "São Miguel do Araguaia"
+    },
+    {
+        "icao": "SDET",
+        "city": "Tietê, SP",
+        "description": "Tietê"
+    },
+    {
+        "icao": "SSKS",
+        "city": "Cachoeira Do Sul, RS",
+        "description": "Brigadeiro Nero Moura"
+    },
+    {
+        "icao": "SWUD",
+        "city": "Cláudio, MG",
+        "description": "Deputado Oswaldo Tolentino"
+    },
+    {
+        "icao": "SWTY",
+        "city": "Taguatinga, TO",
+        "description": "Taguatinga"
+    },
+    {
+        "icao": "SSIE",
+        "city": "Campo Grande, MS",
+        "description": "Teruel Ipanema Estância"
+    },
+    {
+        "icao": "SBDB",
+        "city": "Bonito, MS",
+        "description": "Aeródromo Público de Bonito"
+    },
+    {
+        "icao": "SSCT",
+        "city": "Cianorte, PR",
+        "description": "Engenheiro Gastão de Mesquita Filho"
+    },
+    {
+        "icao": "SDBB",
+        "city": "Bebedouro, SP",
+        "description": "Bebedouro"
+    },
+    {
+        "icao": "SILC",
+        "city": "Lucas Do Rio Verde, MT",
+        "description": "AEROPORTO MUNICIPAL BOM FUTURO"
+    },
+    {
+        "icao": "SDCG",
+        "city": "São Paulo De Olivença, AM",
+        "description": "Senadora Eunice Michiles"
+    },
+    {
+        "icao": "SNBM",
+        "city": "Muriaé, MG",
+        "description": "Cristiano Ferreira Varella"
+    },
+    {
+        "icao": "SNIG",
+        "city": "Iguatu, CE",
+        "description": "Iguatu"
+    },
+    {
+        "icao": "SWWU",
+        "city": "Uruaçu, GO",
+        "description": "Uruaçu"
+    },
+    {
+        "icao": "SWPI",
+        "city": "Parintins, AM",
+        "description": "Parintins"
+    },
+    {
+        "icao": "SIBZ",
+        "city": "Itaporanga, PB",
+        "description": "Itaporanga"
+    },
+    {
+        "icao": "SNCP",
+        "city": "Correia Pinto, SC",
+        "description": "Aeroporto Ricardo Sell Wagner - Regional da Serra Catarinense"
+    },
+    {
+        "icao": "SNVB",
+        "city": "Valença, BA",
+        "description": "Valença"
+    },
+    {
+        "icao": "SNGX",
+        "city": "Guaxupé, MG",
+        "description": "Guaxupé"
+    },
+    {
+        "icao": "SWJN",
+        "city": "Juína, MT",
+        "description": "Juína"
+    },
+    {
+        "icao": "SSHZ",
+        "city": "Horizontina, RS",
+        "description": "Walter Bündchen"
+    },
+    {
+        "icao": "SSGW",
+        "city": "Goioerê, PR",
+        "description": "Manoel Ribas"
+    },
+    {
+        "icao": "SNXB",
+        "city": "Caxambu, MG",
+        "description": "Caxambu"
+    },
+    {
+        "icao": "SWPK",
+        "city": "Poconé, MT",
+        "description": "Poconé"
+    },
+    {
+        "icao": "SNKN",
+        "city": "Currais Novos, RN",
+        "description": "Currais Novos"
+    },
+    {
+        "icao": "SNPX",
+        "city": "Pirapora, MG",
+        "description": "Pirapora"
+    },
+    {
+        "icao": "SSRZ",
+        "city": "Rosário Do Sul, RS",
+        "description": "Dário Brasil Capoano de Oliveira"
+    },
+    {
+        "icao": "SNYA",
+        "city": "Almeirim, PA",
+        "description": "Aeródromo Público de Almeirim"
+    },
+    {
+        "icao": "SIBY",
+        "city": "Monteiro, PB",
+        "description": "Lourival Nunes de Farias"
+    },
+    {
+        "icao": "SJTS",
+        "city": "Terra Santa, PA",
+        "description": "Terra Santa"
+    },
+    {
+        "icao": "SSST",
+        "city": "Santiago, RS",
+        "description": "Santiago"
+    },
+    {
+        "icao": "SNEE",
+        "city": "Vacaria, RS",
+        "description": "Vacaria Novo"
+    },
+    {
+        "icao": "SWEK",
+        "city": "Canarana, MT",
+        "description": "Canarana"
+    },
+    {
+        "icao": "SBPO",
+        "city": "Pato Branco, PR",
+        "description": "AEROPORTO REGIONAL DE PATO BRANCO - PROFESSOR JUVENAL LOUREIRO CARDOSO"
+    },
+    {
+        "icao": "SNZR",
+        "city": "Paracatu, MG",
+        "description": "Pedro Rabelo de Souza"
+    },
+    {
+        "icao": "SDMO",
+        "city": "Monte Alto, SP",
+        "description": "Monte Alto"
+    },
+    {
+        "icao": "SSSS",
+        "city": "São Francisco Do Sul, SC",
+        "description": "São Francisco do Sul"
+    },
+    {
+        "icao": "SSEZ",
+        "city": "Espumoso, RS",
+        "description": "Espumoso"
+    },
+    {
+        "icao": "SBMY",
+        "city": "Manicoré, AM",
+        "description": "Manicoré"
+    },
+    {
+        "icao": "SNDC",
+        "city": "Redenção, PA",
+        "description": "Redenção"
+    },
+    {
+        "icao": "SNXQ",
+        "city": "Xique-Xique, BA",
+        "description": "Xique-Xique"
+    },
+    {
+        "icao": "SWCB",
+        "city": "Campos Belos, GO",
+        "description": "Campos Belos"
+    },
+    {
+        "icao": "SBCI",
+        "city": "Carolina, MA",
+        "description": "Brigadeiro Lysias Augusto Rodrigues"
+    },
+    {
+        "icao": "SNJQ",
+        "city": "Jequitinhonha, MG",
+        "description": "Jequitinhonha"
+    },
+    {
+        "icao": "SDXJ",
+        "city": "Costa Rica, MS",
+        "description": "Costa Rica"
+    },
+    {
+        "icao": "SWPY",
+        "city": "Primavera Do Leste, MT",
+        "description": "Primavera do Leste"
+    },
+    {
+        "icao": "SSNG",
+        "city": "Montenegro, RS",
+        "description": "HELIO ALVES DE OLIVEIRA"
+    },
+    {
+        "icao": "SNTF",
+        "city": "Teixeira De Freitas, BA",
+        "description": "Teixeira de Freitas"
+    },
+    {
+        "icao": "SJQN",
+        "city": "Quirinópolis, GO",
+        "description": "Quirinópolis"
+    },
+    {
+        "icao": "SNOF",
+        "city": "Ouro Fino, MG",
+        "description": "Ouro Fino"
+    },
+    {
+        "icao": "SDPW",
+        "city": "Piracicaba, SP",
+        "description": "Pedro Morganti"
+    },
+    {
+        "icao": "SNMX",
+        "city": "São Mateus, ES",
+        "description": "São Mateus"
+    },
+    {
+        "icao": "SSWS",
+        "city": "Caçapava Do Sul, RS",
+        "description": "Caçapava do Sul"
+    },
+    {
+        "icao": "SSPN",
+        "city": "Paranaíba, MS",
+        "description": "Paranaíba"
+    },
+    {
+        "icao": "SBTG",
+        "city": "Três Lagoas, MS",
+        "description": "Três Lagoas"
+    },
+    {
+        "icao": "SDH2",
+        "city": "Porto Alegre Do Norte, MT",
+        "description": "Porto Alegre do Norte"
+    },
+    {
+        "icao": "SNAP",
+        "city": "Janaúba, MG",
+        "description": "Janaúba"
+    },
+    {
+        "icao": "SNMZ",
+        "city": "Porto De Moz, PA",
+        "description": "Porto de Moz"
+    },
+    {
+        "icao": "SSBN",
+        "city": "Porto Alegre, RS",
+        "description": "Belém Novo"
+    },
+    {
+        "icao": "SSAK",
+        "city": "Cruz Alta, RS",
+        "description": "Carlos Ruhl"
+    },
+    {
+        "icao": "SSCK",
+        "city": "Concórdia, SC",
+        "description": "Olavo Cecco Rigon"
+    },
+    {
+        "icao": "SNFX",
+        "city": "São Félix Do Xingu, PA",
+        "description": "São Félix do Xingu"
+    },
+    {
+        "icao": "SNPA",
+        "city": "Pará De Minas, MG",
+        "description": "Pará de Minas"
+    },
+    {
+        "icao": "SSAQ",
+        "city": "Passo Fundo, RS",
+        "description": "Aeroclube de Passo Fundo"
+    },
+    {
+        "icao": "SND6",
+        "city": "Dionísio Cerqueira, SC",
+        "description": "Dionísio Cerqueira"
+    },
+    {
+        "icao": "SWLB",
+        "city": "Lábrea, AM",
+        "description": "Lábrea"
+    },
+    {
+        "icao": "SWNH",
+        "city": "Aruanã, GO",
+        "description": "Aruanã"
+    },
+    {
+        "icao": "SSPL",
+        "city": "Palmeira Das Missões, RS",
+        "description": "Palmeira das Missões"
+    },
+    {
+        "icao": "SNWC",
+        "city": "Camocim, CE",
+        "description": "Camocim"
+    },
+    {
+        "icao": "SNRD",
+        "city": "Prado, BA",
+        "description": "Prado"
+    },
+    {
+        "icao": "SNIO",
+        "city": "Cipó, BA",
+        "description": "Cipó"
+    },
+    {
+        "icao": "SSOS",
+        "city": "Osório, RS",
+        "description": "Osório"
+    },
+    {
+        "icao": "SNED",
+        "city": "Canavieiras, BA",
+        "description": "Sócrates Rezende"
+    },
+    {
+        "icao": "SWNS",
+        "city": "Anápolis, GO",
+        "description": "Anápolis"
+    },
+    {
+        "icao": "SSJA",
+        "city": "Joaçaba, SC",
+        "description": "Santa Terezinha"
+    },
+    {
+        "icao": "SSIM",
+        "city": "Forquilhinha, SC",
+        "description": "Forquilhinha-Criciúma"
+    },
+    {
+        "icao": "SDK7",
+        "city": "Nova Andradina, MS",
+        "description": "Nova Andradina"
+    },
+    {
+        "icao": "SNMN",
+        "city": "Minas Novas, MG",
+        "description": "Minas Novas"
+    },
+    {
+        "icao": "SDOU",
+        "city": "Ourinhos, SP",
+        "description": "Jornalista Benedito Pimentel"
+    },
+    {
+        "icao": "SWUZ",
+        "city": "Luziânia, GO",
+        "description": "Brigadeiro Araripe Macedo"
+    },
+    {
+        "icao": "SJGU",
+        "city": "Araguatins, TO",
+        "description": "Araguatins"
+    },
+    {
+        "icao": "SDIM",
+        "city": "Itanhaém, SP",
+        "description": "Dr. Antonio Ribeiro Nogueira Júnior"
+    },
+    {
+        "icao": "SWCQ",
+        "city": "Costa Marques, RO",
+        "description": "Costa Marques"
+    },
+    {
+        "icao": "SNIC",
+        "city": "Irecê, BA",
+        "description": "Irecê"
+    },
+    {
+        "icao": "SBLJ",
+        "city": "Lages, SC",
+        "description": "Lages"
+    },
+    {
+        "icao": "SDOV",
+        "city": "Mozarlândia, GO",
+        "description": "Mozarlândia"
+    },
+    {
+        "icao": "SDUB",
+        "city": "Ubatuba, SP",
+        "description": "Estadual Gastão Madeira"
+    },
+    {
+        "icao": "SNPD",
+        "city": "Patos De Minas, MG",
+        "description": "Patos de Minas"
+    },
+    {
+        "icao": "SBMD",
+        "city": "Almeirim, PA",
+        "description": "Monte Dourado"
+    },
+    {
+        "icao": "SDLL",
+        "city": "Leme, SP",
+        "description": "Yolanda Penteado"
+    },
+    {
+        "icao": "SWME",
+        "city": "Mineiros, GO",
+        "description": "Mineiros"
+    },
+    {
+        "icao": "SWKT",
+        "city": "Catalão, GO",
+        "description": "Catalão"
+    },
+    {
+        "icao": "SNTI",
+        "city": "Óbidos, PA",
+        "description": "Óbidos"
+    },
+    {
+        "icao": "SI68",
+        "city": "Campo Novo Do Parecis, MT",
+        "description": "Gelindo Stefanuto"
+    },
+    {
+        "icao": "SSPT",
+        "city": "Palotina, PR",
+        "description": "Brasílio Marques"
+    },
+    {
+        "icao": "SNLI",
+        "city": "Abaeté, MG",
+        "description": "Abaeté"
+    },
+    {
+        "icao": "SNVC",
+        "city": "Viçosa, MG",
+        "description": "Viçosa"
+    },
+    {
+        "icao": "SSER",
+        "city": "Erechim, RS",
+        "description": "Erechim"
+    },
+    {
+        "icao": "SNQG",
+        "city": "Floriano, PI",
+        "description": "Cangapara"
+    },
+    {
+        "icao": "SDIV",
+        "city": "Ituverava, SP",
+        "description": "Ituverava"
+    },
+    {
+        "icao": "SBJA",
+        "city": "Jaguaruna, SC",
+        "description": "Regional Sul"
+    },
+    {
+        "icao": "SWKQ",
+        "city": "São Raimundo Nonato, PI",
+        "description": "Serra da Capivara/São Raimundo Nonato"
+    },
+    {
+        "icao": "SNRP",
+        "city": "Rio Paranaíba, MG",
+        "description": "Rio Paranaíba"
+    },
+    {
+        "icao": "SNVD",
+        "city": "Santa Maria Da Vitória, BA",
+        "description": "Santa Maria da Vitória"
+    },
+    {
+        "icao": "SNAB",
+        "city": "Araripina, PE",
+        "description": "Araripina"
+    },
+    {
+        "icao": "SNFO",
+        "city": "Formiga, MG",
+        "description": "Formiga"
+    },
+    {
+        "icao": "SNIP",
+        "city": "Itapetinga, BA",
+        "description": "Itapetinga"
+    },
+    {
+        "icao": "SSIR",
+        "city": "Ibirubá, RS",
+        "description": "Ibirubá"
+    },
+    {
+        "icao": "SSLT",
+        "city": "Alegrete, RS",
+        "description": "Gaudêncio Machado Ramos"
+    },
+    {
+        "icao": "SNUI",
+        "city": "Araçuaí, MG",
+        "description": "Araçuaí"
+    },
+    {
+        "icao": "SN6L",
+        "city": "Sobral, CE",
+        "description": "Dr. Luciano de Arruda Coelho"
+    },
+    {
+        "icao": "SND4",
+        "city": "São Joaquim, SC",
+        "description": "Ismael Nunes"
+    },
+    {
+        "icao": "SSJI",
+        "city": "Jardim, MS",
+        "description": "Jardim"
+    },
+    {
+        "icao": "SNZA",
+        "city": "Pouso Alegre, MG",
+        "description": "Pouso Alegre"
+    },
+    {
+        "icao": "SNGI",
+        "city": "Guanambi, BA",
+        "description": "Aeródromo de Guanambi"
+    },
+    {
+        "icao": "SNAR",
+        "city": "Almenara, MG",
+        "description": "Cirilo Queiróz"
+    },
+    {
+        "icao": "SSOE",
+        "city": "Descanso, SC",
+        "description": "Hélio Wasum"
+    },
+    {
+        "icao": "SSRE",
+        "city": "Realeza, PR",
+        "description": "Realeza"
+    },
+    {
+        "icao": "SNJM",
+        "city": "Manhuaçu, MG",
+        "description": "Regional de Santo Amaro de Minas"
+    },
+    {
+        "icao": "SSQT",
+        "city": "Castro, PR",
+        "description": "Castro"
+    },
+    {
+        "icao": "SDXF",
+        "city": "Alto Paraíso De Goiás, GO",
+        "description": "Alto Paraíso de Goiás"
+    },
+    {
+        "icao": "SWNQ",
+        "city": "Niquelândia, GO",
+        "description": "Niquelândia"
+    },
+    {
+        "icao": "SNFU",
+        "city": "Frutal, MG",
+        "description": "Frutal"
+    },
+    {
+        "icao": "SSSG",
+        "city": "São Gabriel, RS",
+        "description": "São Gabriel"
+    },
+    {
+        "icao": "SNMR",
+        "city": "Maraú, BA",
+        "description": "Maraú"
+    },
+    {
+        "icao": "SDLY",
+        "city": "Matão, SP",
+        "description": "Armando Natali"
+    },
+    {
+        "icao": "SSZR",
+        "city": "Santa Rosa, RS",
+        "description": "Luis Alberto Lehr"
+    },
+    {
+        "icao": "SNOS",
+        "city": "Passos, MG",
+        "description": "Municipal José Figueiredo"
+    },
+    {
+        "icao": "SSCB",
+        "city": "Casa Branca, SP",
+        "description": "Municipal de Casa Branca"
+    },
+    {
+        "icao": "SSVN",
+        "city": "Veranópolis, RS",
+        "description": "Veranópolis"
+    },
+    {
+        "icao": "SBEK",
+        "city": "Jacareacanga, PA",
+        "description": "Jacareacanga"
+    },
+    {
+        "icao": "SBLE",
+        "city": "Lençóis, BA",
+        "description": "HORÁCIO DE MATTOS"
+    },
+    {
+        "icao": "SJAU",
+        "city": "Araguacema, TO",
+        "description": "Araguacema"
+    },
+    {
+        "icao": "SNGG",
+        "city": "Bom Jesus, PI",
+        "description": "Bom Jesus do Gurguéia"
+    },
+    {
+        "icao": "SNIU",
+        "city": "Ipiaú, BA",
+        "description": "Ipiaú"
+    },
+    {
+        "icao": "SSBG",
+        "city": "Bento Gonçalves, RS",
+        "description": "Municipal de Bento Gonçalves"
+    },
+    {
+        "icao": "SNSI",
+        "city": "Santa Maria Do Suaçuí, MG",
+        "description": "Santa Maria do Suaçuí"
+    },
+    {
+        "icao": "SBPC",
+        "city": "Poços De Caldas, MG",
+        "description": "Embaixador Walther Moreira Salles"
+    },
+    {
+        "icao": "SSNP",
+        "city": "Nova Prata, RS",
+        "description": "Ilmo Aloísio Blume"
+    },
+    {
+        "icao": "SDAG",
+        "city": "Angra Dos Reis, RJ",
+        "description": "Angra Dos Reis"
+    },
+    {
+        "icao": "SWPZ",
+        "city": "Posse, GO",
+        "description": "Ouriçanga de Abreu"
+    },
+    {
+        "icao": "SWTO",
+        "city": "Paraíso Do Tocantins, TO",
+        "description": "Paraíso do Tocantins"
+    },
+    {
+        "icao": "SNMA",
+        "city": "Monte Alegre, PA",
+        "description": "Monte Alegre"
+    },
+    {
+        "icao": "SJZA",
+        "city": "Cajazeiras, PB",
+        "description": "Pedro Vieira Moreira"
+    },
+    {
+        "icao": "SDTP",
+        "city": "Tupã, SP",
+        "description": "José Vicente Faria Lima"
+    },
+    {
+        "icao": "SDMJ",
+        "city": "Mogi Mirim, SP",
+        "description": "Mogi Mirim"
+    },
+    {
+        "icao": "SDWQ",
+        "city": "Alenquer, PA",
+        "description": "Alenquer"
+    },
+    {
+        "icao": "SWIQ",
+        "city": "Minaçu, GO",
+        "description": "Aeroporto Municipal José Caires de Oliveira"
+    },
+    {
+        "icao": "SNSM",
+        "city": "Salinópolis, PA",
+        "description": "Salinópolis"
+    },
+    {
+        "icao": "SBNV",
+        "city": "Goiânia, GO",
+        "description": "Aeródromo Nacional de Aviação"
+    },
+    {
+        "icao": "SDTB",
+        "city": "Atibaia, SP",
+        "description": "Atibaia"
+    },
+    {
+        "icao": "SDEP",
+        "city": "Presidente Epitácio, SP",
+        "description": "Geraldo Moacir Bordon"
+    },
+    {
+        "icao": "SSNB",
+        "city": "Naviraí, MS",
+        "description": "Ariosto da Riva"
+    },
+    {
+        "icao": "SNPQ",
+        "city": "Pesqueira, PE",
+        "description": "Pesqueira"
+    },
+    {
+        "icao": "SDOW",
+        "city": "Ourilândia Do Norte, PA",
+        "description": "Ourilândia do Norte"
+    },
+    {
+        "icao": "SWPM",
+        "city": "Pimenta Bueno, RO",
+        "description": "Pimenta Bueno"
+    },
+    {
+        "icao": "SWGN",
+        "city": "Araguaína, TO",
+        "description": "Araguaína"
+    },
+    {
+        "icao": "SNRM",
+        "city": "Remanso, BA"
+    },
+    {
+        "icao": "SDAE",
+        "city": "São Pedro, SP"
+    },
+    {
+        "icao": "SSJK",
+        "city": "Tupanciretã, RS",
+        "description": "Júlio de Castilhos"
+    },
+    {
+        "icao": "SSVL",
+        "city": "Telêmaco Borba, PR"
+    },
+    {
+        "icao": "SSEE",
+        "city": "Estrela, RS",
+        "description": "Regional do Vale do Taquari"
+    },
+    {
+        "icao": "SWPG",
+        "city": "Porto Dos Gaúchos, MT"
+    },
+    {
+        "icao": "SNDT",
+        "city": "Diamantina, MG",
+        "description": "Juscelino Kubitschek"
+    },
+    {
+        "icao": "SDDN",
+        "city": "Andradina, SP",
+        "description": "Paulino Ribeiro de Andrade"
+    },
+    {
+        "icao": "SSCD",
+        "city": "Chapadão Do Sul, MS"
+    },
+    {
+        "icao": "SDPD",
+        "city": "Pindamonhangaba, SP"
+    },
+    {
+        "icao": "SBTC",
+        "city": "Una, BA",
+        "description": "UNA/COMANDATUBA"
+    },
+    {
+        "icao": "SNKF",
+        "city": "Conselheiro Lafaiete, MG",
+        "description": "Das Bandeirinhas"
+    },
+    {
+        "icao": "SSRS",
+        "city": "Barreirinhas, MA"
+    },
+    {
+        "icao": "SWWA",
+        "city": "Porangatu, GO"
+    },
+    {
+        "icao": "SWOB",
+        "city": "Fonte Boa, AM"
     }
 ]

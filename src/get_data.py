@@ -1,7 +1,7 @@
 import requests
 from dataclasses import dataclass
 from typing import List
-from src.icao_enum import IcaoEnum
+from src.icao import Icao
 
 
 @dataclass
@@ -47,7 +47,7 @@ class GetData:
 
     def _get_city_name(self, props_id: str) -> str:
         try:
-            return IcaoEnum[props_id].value
+            return Icao().get_city_name(props_id)
         except KeyError:
             return ""
 
